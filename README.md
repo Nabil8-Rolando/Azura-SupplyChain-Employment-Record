@@ -1,91 +1,93 @@
-# السجل الإداري والمالي الرسمي لبيانات الشغل داخل سلسلة توريد مجموعة أزورا
+# Official Administrative & Financial Employment Record — Azura Group Supply Chain
 
 **Nabil Amzil — Farm 41 — Maraissa (Azura Group)**
 
----
-
-## 📌 البيانات الأساسية
-
-* **صاحب السجل:** نبيل أمزيل — العيون، المغرب
-* **المؤسسة المشغّلة:** مارايسا (مجموعة أزورا) — المزرعة 41، جهة الداخلة
-* **فترة العمل:** من 09 أكتوبر 2025 إلى 22 ديسمبر 2025 (47 يوم عمل فعلي / 75 يوماً تقويمياً)
-
-### مراجع الامتثال الدولية (BAFA – LkSG):
-* **رقم ملف BAFA:** 80005772
-* **مرجع Lidl:** 80005816
-* **مرجع Rewe:** 80005817
-* **الترخيص:** رخصة المشاع الإبداعي — النَّسب – غير تجاري – عدم الاشتقاق 4.0 (CC BY-NC-ND 4.0)
+[🌐 العربية (Arabic Version)](Nabil_Amzil_Official_Record_Arabic.md) | [📄 Full English Record](Nabil_Amzil_Official_Record_English.md)
 
 ---
 
-## 📄 الملخص التنفيذي
+## 📌 Key Information
 
-هذا السجل يقدم أرشيفاً إدارياً ومالياً محايداً وقابلاً للتحقق لبيانات الشغل داخل سلسلة توريد شركة مارايسا (مجموعة أزورا) بالمزرعة 41.
+* **Record Owner:** Nabil Amzil — Laayoune, Morocco
+* **Operating Entity:** Maraissa (Azura Group) — Farm 41, Dakhla Region
+* **Employment Period:** October 09, 2025 – December 22, 2025 (47 actual working days / 75 calendar days)
 
-تم استخراج جميع الأرقام حصرياً من:
-1. التصريحات الرسمية للضمان الاجتماعي CNSS.
-2. الكشوفات البنكية المؤكدة.
-3. الوثائق الإدارية الصادرة عن المؤسسة.
-
-يُعرض هذا السجل كمرجع رقمي محايد لأغراض المطابقة والتدقيق في سلاسل الإمداد الدولية (LkSG، CSDDD، ILO، UNGP).
+### International Compliance References (BAFA – LkSG):
+* **BAFA Case Reference:** 80005772
+* **Lidl Compliance Reference:** 80005816
+* **Rewe Compliance Reference:** 80005817
+* **License:** Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 ---
 
-## 📊 جدول المطابقة المالية
+## 📄 Executive Summary
 
-| البيان | المبلغ (درهم مغربي) | المصدر الرسمي |
+This record constitutes a neutral, objective, and verifiable administrative archive documenting employment data within the supply chain of Maraissa (Azura Group) at Farm 41.
+
+All figures and dates contained herein are derived strictly from:
+1. Official declarations to the National Social Security Fund (CNSS).
+2. Confirmed bank account statements.
+3. Official administrative notices issued by the operating entity.
+
+This archive serves as a neutral digital reference for cross-referencing and compliance auditing within international supply chain frameworks (LkSG, CSDDD, ILO, UNGP).
+
+---
+
+## 📊 Financial Reconciliation Table
+
+| Description | Amount (MAD) | Official Source |
 | :--- | :--- | :--- |
-| **الأجر المصرّح به حكومياً** | 4,996.09 | تصريح CNSS |
-| **المبلغ المستلم بنكياً** | 1,048.50 | كشف حساب بنكي |
-| **الفارق الرقمي المسجّل** | 3,947.59 | تسوية محاسبية |
+| **Government-Declared Wage** | 4,996.09 | CNSS Official Declaration |
+| **Bank Deposited Amount** | 1,048.50 | Confirmed Bank Statement |
+| **Recorded Net Discrepancy** | 3,947.59 | Accounting Reconciliation |
 
 ---
 
-## 📋 طبيعة السجل
+## 📋 Nature & Scope of Record
 
-| هذا السجل يمثّل | هذا السجل لا يمثّل |
+| This Record Represents | This Record Does NOT Represent |
 | :--- | :--- |
-| أرشيف إداري محايد | منصة لإيداع شكوى جديدة (بل توثيق لمساطر سابقة) |
-| بيانات حكومية رسمية | مطالبة مالية أوليّة |
-| أرقام محاسبية قابلة للتحقق | رأي شخصي أو انطباعي |
-| مرجع امتثال لسلاسل التوريد | تشهير أو إساءة |
+| A neutral administrative archive | A platform for filing new legal complaints |
+| Official government data & bank records | An initial financial claim or lawsuit |
+| Verifiable accounting metrics | Personal opinion or subjective commentary |
+| A supply chain compliance reference | Defamation or harassment |
 
 ---
 
-## ⚖️ الأطر الدولية والتنظيمية
+## ⚖️ International & Regulatory Frameworks
 
-### مراجع تنظيمية دولية:
-* **ألمانيا (LkSG):** مسجل تحت رقم BAFA 80005772
-* **الاتحاد الأوروبي (CSDDD):** متوافق مع توجيه العناية الواجبة
-* **فرنسا (Devoir de Vigilance):** مطابق لمعايير اليقظة
-* **منظمة العمل الدولية (ILO):** معايير الشفافية والأجور
-* **مبادئ الأمم المتحدة (UNGP):** مبادئ حقوق الإنسان في الأعمال التجارية
+### International Due Diligence References:
+* **Germany (LkSG):** Registered under BAFA Case Reference 80005772.
+* **European Union (CSDDD):** Compliant with Corporate Sustainability Due Diligence Directive auditing standards.
+* **France (Devoir de Vigilance):** Aligned with French supply chain vigilance requirements.
+* **International Labour Organization (ILO):** Wage transparency and labor standards.
+* **UN Guiding Principles (UNGP):** Business and Human Rights reporting standards.
 
-### الأساس الدستوري (المملكة المغربية):
-منشور وفقاً للفصول 21 و27 و28 و31 من دستور المملكة المغربية المتعلقة بالحق في الوصول إلى المعلومات والشفافية وحفظ السجلات الرسمية.
-
----
-
-## 🛠️ الإيقاف الإداري للنظام الداخلي
-
-تم إصدار إشعار إداري رسمي للعمال بالمزرعة 41 خلال ديسمبر 2025 يؤكد إنهاء نظام الاقتطاع الداخلي (Retenue Mollhanout) ابتداءً من 1 يناير 2026.
-
-وقد تم تعميم القرار على جميع مزارع وفروع مجموعة أزورا خلال نفس الشهر، بعد تقديم شكايات رسمية عبر المنصة الوطنية Chikaya.
+### Constitutional Basis (Kingdom of Morocco):
+Published pursuant to Articles 21, 27, 28, and 31 of the Constitution of the Kingdom of Morocco regarding the right of access to information, administrative transparency, and official record preservation.
 
 ---
 
-## 📂 محتويات المستودع
+## 🛠️ Administrative Status & System Modifications
 
-* `README.md` — الملخص التنفيذي والإطار التنظيمي.
-* `Nabil_Amzil_Official_Record_Arabic.md` — السجل العربي الكامل.
-* `Nabil_Amzil_Official_Record_English.md` — السجل الإنجليزي الكامل.
+An official administrative notice was issued to workers at Farm 41 in December 2025 confirming the termination of the internal payroll deduction system (*Retenue Mollhanout*) effective January 1, 2026.
+
+This directive was extended across all farms and branches of Azura Group following formal filings via the national administrative portal (*Chikaya*).
 
 ---
 
-## 📜 بيانات التواصل والترخيص
+## 📂 Repository Index
 
-* **الاسم:** نبيل أمزيل
-* **المدينة:** العيون، المغرب
-* **البريد الإلكتروني:** rolandonabil955@gmail.com
-* **تاريخ النشر:** أكتوبر 2026
-* **الترخيص:** CC BY-NC-ND 4.0 (الاستخدام مسموح لأغراض أرشيفية أو صحفية محايدة وغير تجارية ودون أي تعديل).
+* `README.md` — Executive Summary & International Compliance Framework (Current Page).
+* `Nabil_Amzil_Official_Record_English.md` — Full Detailed English Record.
+* `Nabil_Amzil_Official_Record_Arabic.md` — Full Detailed Arabic Record.
+
+---
+
+## 📜 Contact & Licensing Information
+
+* **Name:** Nabil Amzil
+* **Location:** Laayoune, Morocco
+* **Email:** rolandonabil955@gmail.com
+* **Publication Date:** October 2026
+* **License:** CC BY-NC-ND 4.0 (Permitted for neutral archival, journalistic, and auditing purposes without alteration or commercial use).
