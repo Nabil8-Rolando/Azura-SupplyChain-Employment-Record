@@ -1,93 +1,133 @@
-# Official Administrative & Financial Employment Record — Azura Group Supply Chain
+# Official Personal Record — Administrative Data & Compliance Archive
 
-**Nabil Amzil — Farm 41 — Maraissa (Azura Group)**
+**Entity:** Maraissa (Azura Group)  
+**Location:** Farm 41, Dakhla Region, Morocco  
+**International Compliance References (BAFA — LkSG):** Reference 80005772 | Lidl 80005816 | Rewe 80005817  
+**Publication Date:** October 2026  
+**License:** CC BY-NC-ND 4.0 International  
+**Author & Custodian:** Nabil Amzil — Laayoune, Morocco  
 
-[🌐 العربية (Arabic Version)](Nabil_Amzil_Official_Record_Arabic.md) | [📄 Full English Record](Nabil_Amzil_Official_Record_English.md)
-
----
-
-## 📌 Key Information
-
-* **Record Owner:** Nabil Amzil — Laayoune, Morocco
-* **Operating Entity:** Maraissa (Azura Group) — Farm 41, Dakhla Region
-* **Employment Period:** October 09, 2025 – December 22, 2025 (47 actual working days / 75 calendar days)
-
-### International Compliance References (BAFA – LkSG):
-* **BAFA Case Reference:** 80005772
-* **Lidl Compliance Reference:** 80005816
-* **Rewe Compliance Reference:** 80005817
-* **License:** Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+[🌐 النسخة العربية الكاملة (Full Arabic Version)](Nabil_Amzil_Official_Record_Arabic.md) | [📄 Full English Record](Nabil_Amzil_Official_Record_English.md)
 
 ---
 
-## 📄 Executive Summary
+## 📑 General Statement
 
-This record constitutes a neutral, objective, and verifiable administrative archive documenting employment data within the supply chain of Maraissa (Azura Group) at Farm 41.
+This repository contains a neutral administrative archive documenting my employment period at Maraissa (Azura Group), Farm 41, from October 9, 2025, to December 22, 2025.
 
-All figures and dates contained herein are derived strictly from:
-1. Official declarations to the National Social Security Fund (CNSS).
-2. Confirmed bank account statements.
-3. Official administrative notices issued by the operating entity.
+All data presented herein is reproduced exactly as received in official government declarations, bank records, and administrative notices.
 
-This archive serves as a neutral digital reference for cross-referencing and compliance auditing within international supply chain frameworks (LkSG, CSDDD, ILO, UNGP).
+The sole purpose of this archive is to ensure transparency and provide a machine-readable factual database for cross-referencing and auditing within applicable national and international compliance frameworks.
+
+This record contains no personal commentary, evaluations, or subjective interpretations, relying strictly on verified documentation issued by primary sources.
 
 ---
 
-## 📊 Financial Reconciliation Table
+## 📊 Part 1 — Financial & Administrative Data (Factual Metrics)
 
-| Description | Amount (MAD) | Official Source |
+### 1. National Social Security Fund Declarations (CNSS — Morocco)
+
+| Month | Declared Days | Declared Wage (MAD) |
 | :--- | :--- | :--- |
-| **Government-Declared Wage** | 4,996.09 | CNSS Official Declaration |
-| **Bank Deposited Amount** | 1,048.50 | Confirmed Bank Statement |
-| **Recorded Net Discrepancy** | 3,947.59 | Accounting Reconciliation |
+| **October 2025** | 18 | 1,931.31 |
+| **November 2025** | 14 | 1,560.38 |
+| **December 2025** | 15 | 1,504.40 |
+| **Total** | **47 Days** | **4,996.09** |
 
 ---
 
-## 📋 Nature & Scope of Record
+### 2. Confirmed Net Bank Deposits
 
-| This Record Represents | This Record Does NOT Represent |
+| Date | Amount Received (MAD) |
 | :--- | :--- |
-| A neutral administrative archive | A platform for filing new legal complaints |
-| Official government data & bank records | An initial financial claim or lawsuit |
-| Verifiable accounting metrics | Personal opinion or subjective commentary |
-| A supply chain compliance reference | Defamation or harassment |
+| **October 20, 2025** | 169.20 |
+| **November 4, 2025** | 281.93 |
+| **December 3, 2025** | 227.53 |
+| **December 3, 2025** | 332.67 |
+| **January 5, 2026** | 37.17 |
+| **Total** | **1,048.50** |
 
 ---
 
-## ⚖️ International & Regulatory Frameworks
-
-### International Due Diligence References:
-* **Germany (LkSG):** Registered under BAFA Case Reference 80005772.
-* **European Union (CSDDD):** Compliant with Corporate Sustainability Due Diligence Directive auditing standards.
-* **France (Devoir de Vigilance):** Aligned with French supply chain vigilance requirements.
-* **International Labour Organization (ILO):** Wage transparency and labor standards.
-* **UN Guiding Principles (UNGP):** Business and Human Rights reporting standards.
-
-### Constitutional Basis (Kingdom of Morocco):
-Published pursuant to Articles 21, 27, 28, and 31 of the Constitution of the Kingdom of Morocco regarding the right of access to information, administrative transparency, and official record preservation.
+### 3. Official Payslip Data (Bulletin de Paie)
+*Excerpt from official payslip for the period December 1–15, 2025:*
+* **Gross Wage:** 918.73 MAD  
+* **Direct Deduction Item (*Retenue Mollhanout*):** -856.82 MAD  
+* **Social Contribution:** -51.92 MAD  
+* **Net Paid Amount:** 0.00 MAD  
 
 ---
 
-## 🛠️ Administrative Status & System Modifications
+### 4. Recorded Net Discrepancy
 
-An official administrative notice was issued to workers at Farm 41 in December 2025 confirming the termination of the internal payroll deduction system (*Retenue Mollhanout*) effective January 1, 2026.
-
-This directive was extended across all farms and branches of Azura Group following formal filings via the national administrative portal (*Chikaya*).
-
----
-
-## 📂 Repository Index
-
-* `README.md` — Executive Summary & International Compliance Framework (Current Page).
-* `Nabil_Amzil_Official_Record_English.md` — Full Detailed English Record.
-* `Nabil_Amzil_Official_Record_Arabic.md` — Full Detailed Arabic Record.
+| Metric | Amount (MAD) |
+| :--- | :--- |
+| **Government-Declared Wage (CNSS)** | 4,996.09 |
+| **Confirmed Net Bank Deposits** | 1,048.50 |
+| **Recorded Net Discrepancy** | **3,947.59** |
 
 ---
 
-## 📜 Contact & Licensing Information
+## ⚖️ Part 2 — Administrative References & Regulatory Frameworks
 
-* **Name:** Nabil Amzil
-* **Location:** Laayoune, Morocco
-* **Email:** rolandonabil955@gmail.com
-* **Publication Date:** October 2026
-* **License:** CC BY-NC-ND 4.0 (Permitted for neutral archival, journalistic, and auditing purposes without alteration or commercial use).
+* **National Administrative Filings (Morocco):**  
+  * Financial data and metrics recorded in government documents and bank statements are presented as factual entries. Legal characterization or review remains under the exclusive jurisdiction of competent administrative and judicial authorities.  
+  * **Recorded Administrative Filings:** Formal complaints submitted via the national administrative portal (*Chikaya*) in December 2025.  
+  * **On-Site Administrative Decision:** An official administrative notice issued to workers at the residential complex of Farm 41 ordering the termination of the direct internal deduction system (*Retenue Mollhanout*) effective January 1, 2026, and its subsequent extension across all Azura Group operational units.
+
+* **German Supply Chain Due Diligence Act (LkSG):**  
+  Registered with the Federal Office for Economic Affairs and Export Control (BAFA) under Case Reference **80005772**, and linked to direct supply chain buyer references: **80005816 (Lidl)** and **80005817 (Rewe)**.
+
+* **International & European Frameworks:**  
+  * **France:** Aligned with the Duty of Vigilance Act (*Devoir de Vigilance*).  
+  * **European Union:** Compliant with Corporate Sustainability Due Diligence Directive (CSDDD) audit metrics.  
+  * **United Nations:** Prepared for review under Special Procedures and UN Guiding Principles on Business and Human Rights (UNGP).  
+  * **International Labour Organization (ILO):** Compliant with relevant core conventions.
+
+---
+
+## 🛡️ Part 3 — Legal Frameworks & Institutional Safeguards
+
+### 1. Institutional & Regulatory Oversight
+
+| Regulatory Body | Legal / Administrative Framework | Scope of Competence |
+| :--- | :--- | :--- |
+| **BAFA (Germany)** | LkSG Framework | Supply chain compliance monitoring |
+| **Lidl & Rewe** | Contractual Buyer Standards | Supply chain compliance & auditing |
+| **UN Special Rapporteurs** | International Standards | Documentation under international mechanisms |
+| **ILO** | International Labor Standards | Administrative review under recognized protocols |
+
+### 2. Constitutional Rights
+The record owner relies on rights guaranteed under Articles 21, 27, 28, and 31 of the Constitution of the Kingdom of Morocco, protecting access to information, personal data protection, and official record preservation.
+
+---
+
+## 📂 Part 4 — Neutrality Statement & Licensing
+
+### Neutrality Principles
+* This record presents factual and financial metrics as recorded in official sources and notices.
+* The text contains no defamatory language, legal conclusions, or personal value judgments.
+* The archive establishes no formal liability, leaving evaluation entirely to competent bodies.
+* This record is subject to immediate updating upon the issuance of official corrected data by authorities.
+
+### Usage License
+Published under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (**CC BY-NC-ND 4.0**).
+* **Permitted:** Quotation, indexing, and archiving by press, researchers, and regulatory agencies solely for non-commercial, neutral, and informational purposes.
+* **Strictly Prohibited:** Commercial exploitation, modification, or redistribution outside its administrative context.
+
+---
+
+## ✍ Final Declaration
+
+I, Nabil Amzil, hereby declare:
+1. I assume full responsibility for organizing and maintaining this personal administrative archive.
+2. All figures, dates, and references are accurate and derived directly from official government, banking, and administrative documents.
+3. I document this record under my transparent and full name to ensure integrity and administrative compliance.
+
+**Author:** Nabil Amzil  
+**Location:** Laayoune, Morocco  
+**International Case References:** BAFA 80005772 | Lidl 80005816 | Rewe 80005817  
+
+---
+
+*Archive Safeguard Notice: The record owner maintains this repository as the sole official reference and bears no responsibility for unauthorized modifications or redistributions by external parties.*
